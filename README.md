@@ -8,7 +8,7 @@
 
 <hr>
 
-### Projects 
+### Projects:
 
 <div id="badges">
   <a href="https://github.com/stars/pedrojfmorais/lists/isec">
