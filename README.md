@@ -2,6 +2,7 @@
 
 ISEC Projects -> https://github.com/stars/pedrojfmorais/lists/isec
 
+Snake Game in Java -> https://github.com/pedrojfmorais/Snake
 <!--
 **pedrojfmorais/pedrojfmorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
