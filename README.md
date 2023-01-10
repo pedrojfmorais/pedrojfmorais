@@ -7,10 +7,11 @@
 </div>
 
 <hr>
+
 ### Projects 
 
 <div id="badges">
-  <a href="https://github.com/pedrojfmorais/Snake">
+  <a href="https://github.com/stars/pedrojfmorais/lists/isec">
     <img src="https://isec.pt/assets_isec/logo-isec-transparente.png" alt="Snake Game" width="auto" height="40"/>      
   </a>
 </div>
