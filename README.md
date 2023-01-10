@@ -1,12 +1,23 @@
 ### Hi there 👋
 
-ISEC Projects -> https://github.com/stars/pedrojfmorais/lists/isec
-
-#Snake(../Snake) Snake Game in Java -> https://github.com/pedrojfmorais/Snake
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/pedrojfmorais/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<hr>
+### Projects 
+
+<div id="badges">
+  <a href="https://github.com/pedrojfmorais/Snake">
+    <img src="https://isec.pt/assets_isec/logo-isec-transparente.png" alt="Snake Game" width="auto" height="40"/>      
+  </a>
+</div>
+
+<div id="badges">
+  <a href="https://github.com/pedrojfmorais/Snake">
+    <img src="https://play-lh.googleusercontent.com/freQgcJPowwH5lhDMT12SPWFnfkuBBr-JH2dkL9KeQrpprDGafKL1J2-IdZdnidtLFU" alt="Snake Game" width="40" height="40"/>
   </a>
 </div>
 <hr>
@@ -24,16 +35,14 @@ ISEC Projects -> https://github.com/stars/pedrojfmorais/lists/isec
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <hr>
 </div>
-<hr>
-<div>
-### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pedrojfmorais&theme=dark&background=000000)](https://git.io/streak-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojfmorais&layout=compact&theme=vision-friendly-dark)
-</div>
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pedrojfmorais&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojfmorais&layout=compact&theme=vision-friendly-dark)
 <!--
 **pedrojfmorais/pedrojfmorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
