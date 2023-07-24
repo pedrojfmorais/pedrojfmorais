@@ -12,7 +12,7 @@
 
 <div id="badges">
   <a href="https://github.com/stars/pedrojfmorais/lists/isec">
-    <img src="https://isec.pt/assets_isec/logo-isec-transparente.png" alt="Snake Game" width="auto" height="40"/>      
+    <img src="https://isec.pt/assets_isec/logo-isec-transparente.png" alt="ISEC" width="auto" height="40"/>      
   </a>
 </div>
 
