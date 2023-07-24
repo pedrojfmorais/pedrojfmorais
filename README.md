@@ -11,8 +11,8 @@
 ### Projects:
 
 <div id="badges">
-  <a href="https://github.com/stars/pedrojfmorais/lists/isec">
-    <img src="https://isec.pt/assets_isec/logo-isec-transparente.png" alt="ISEC" width="auto" height="40"/>      
+  <a href="https://github.com/stars/pedrojfmorais/lists/isec-lei-da">
+    <img src="[https://isec.pt/assets_isec/logo-isec-transparente.png](https://isec.pt/assets_isec/logo-isec-transparente.png)" alt="ISEC" width="auto" height="40"/>      
   </a>
 </div>
 
