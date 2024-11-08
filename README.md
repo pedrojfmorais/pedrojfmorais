@@ -13,6 +13,9 @@
   <a href="https://github.com/stars/pedrojfmorais/lists/isec-lei-da">
     <img src="[https://isec.pt/assets_isec/logo-isec-transparente.png](https://isec.pt/assets_isec/logo-isec-transparente.png)" alt="ISEC LEI DA" width="auto" height="40"/>      
   </a>
+  <a href="https://github.com/stars/pedrojfmorais/lists/isec-mei-es">
+    <img src="[https://isec.pt/assets_isec/logo-isec-transparente.png](https://isec.pt/assets_isec/logo-isec-transparente.png)" alt="ISEC MEI ES" width="auto" height="40"/>      
+  </a>
 </div>
 
 <div id="badges">
