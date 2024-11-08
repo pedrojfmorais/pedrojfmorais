@@ -11,16 +11,20 @@
 ### Projects:
 <div id="badges">
   <a href="https://github.com/stars/pedrojfmorais/lists/isec-lei-da">
-    <img src="[https://isec.pt/assets_isec/logo-isec-transparente.png](https://isec.pt/assets_isec/logo-isec-transparente.png)" alt="ISEC LEI DA" width="auto" height="40"/>      
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Instituto_Superior_de_Engenharia_de_Coimbra_logo.png" alt="ISEC LEI DA" width="auto" height="40"/>
+    ISEC LEI DA      
   </a>
+  <br>
   <a href="https://github.com/stars/pedrojfmorais/lists/isec-mei-es">
-    <img src="[https://isec.pt/assets_isec/logo-isec-transparente.png](https://isec.pt/assets_isec/logo-isec-transparente.png)" alt="ISEC MEI ES" width="auto" height="40"/>      
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Instituto_Superior_de_Engenharia_de_Coimbra_logo.png" alt="ISEC MEI ES" width="auto" height="40"/>      
+    ISEC MEI ES
   </a>
 </div>
 
 <div id="badges">
   <a href="https://github.com/pedrojfmorais/Snake">
     <img src="https://play-lh.googleusercontent.com/freQgcJPowwH5lhDMT12SPWFnfkuBBr-JH2dkL9KeQrpprDGafKL1J2-IdZdnidtLFU" alt="Snake Game" width="40" height="40"/>
+    Snake Game
   </a>
 </div>
 <hr>
